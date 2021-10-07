@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MainWindow.qml</file>
+        <file>Prototype.qml</file>
+        <file>PrototypeForm.ui.qml</file>
+        <file>AddingWindow.qml</file>
+    </qresource>
+</RCC>
